@@ -13,4 +13,4 @@ hello xl! hello git!
 hello xl! hello git!
 hello xl! hello git!
 hello xl! hello git! master test
-hello xl! hello git!
+hello xl! hello git! hot-fix test
